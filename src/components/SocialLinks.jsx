@@ -4,6 +4,7 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import rsm from "../assets/resume.pdf";
 
+
 const SocialLinks = () => {
   const links = [
     {
